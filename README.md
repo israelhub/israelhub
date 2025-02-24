@@ -8,9 +8,9 @@
 ---
 🚀 **Tecnologias que já interagi:**  
 
-Linguagens
+Linguagens de Programação, Marcação e Estilo
 
-[![Java, Javascript, Python, C, Arduino](https://skillicons.dev/icons?i=java,js,python,c,arduino)](https://skillicons.dev)
+[![Java, Javascript, Python, C, Arduino, HTML, CSS](https://skillicons.dev/icons?i=java,js,python,c,arduino,html,css)](https://skillicons.dev)
 
 <!-- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
