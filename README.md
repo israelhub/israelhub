@@ -19,7 +19,7 @@ Linguagens de Programação, Marcação e Estilo
 
 Frameworks, Bibliotecas & Ambientes de execução
 
-[![Spring Boot, Node.js, Bootstrap, React, Next.js, Nest.js](https://skillicons.dev/icons?i=spring,nodejs,bootstrap,react,nextjs,nestjs)](https://skillicons.dev)
+[![Spring Boot, Node.js, Bootstrap, React, Next.js, Nest.js, Express.js](https://skillicons.dev/icons?i=spring,nodejs,bootstrap,react,nextjs,nestjs,express)](https://skillicons.dev)
 
 <!-- ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=fff)
