@@ -1,9 +1,9 @@
 # Olá! Seja bem-vindo! 👋
 
 🙋‍♂️ **Sobre mim:**  
-> Atualmente, estou cursando Sistemas de Informação no Centro Federal de Educação Tecnológica Celso Suckow da Fonseca (CEFET/RJ), no qual, aprendo e aplico conhecimentos sobre Estrutura de Dados, Programação Orientada a Objeto, Logica de Programação, Engenharia de Software, Banco de Dados e Sistema Operacional. Tenho trabalhado em projetos com Java Spring Boot com Thymeleaf e Bootstrap, JavaScript, Node.js, Chatbots e PostgreSQL. Priorizo aprimorar meus conhecimentos em lógica de programação e gosto de manter meu código organizado, limpo e bem estruturado, com foco em boas práticas de desenvolvimento.
+> Atualmente, estou cursando Sistemas de Informação no Centro Federal de Educação Tecnológica Celso Suckow da Fonseca (CEFET/RJ), no qual, aprendo e aplico conhecimentos sobre Estrutura de Dados, Programação Orientada a Objeto, Logica de Programação, Engenharia de Software, Banco de Dados e Sistema Operacional. Já trabalhei em projetos com Next, Nest, React Native, Figma, Typescript, Spring Boot, IA, Chatbots e PostgreSQL. Priorizo aprimorar meus conhecimentos em lógica de programação e gosto de manter meu código organizado, limpo e bem estruturado, com foco em boas práticas de desenvolvimento.
 >
-> Sou certificado AWS Cloud Practioner e tenho o objetivo de ser desenvolvedor fullstack. Estou aprendendo Angular no momento. No futuro, quero me aprofundar em React e TypeScript.
+> Sou certificado AWS Cloud Practioner e tenho o objetivo de ser um desenvolvedor.
 
 ---
 🚀 **Tecnologias que já interagi:**  
@@ -11,11 +11,6 @@
 Linguagens de Programação, Marcação e Estilo
 
 [![Java, Javascript, Python, C, Arduino, HTML, CSS](https://skillicons.dev/icons?i=java,js,python,c,arduino,html,css)](https://skillicons.dev)
-
-<!-- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) -->
 
 Frameworks, Bibliotecas & Ambientes de execução
 
