@@ -10,7 +10,7 @@
 
 Linguagens de Programação, Marcação e Estilo
 
-[![Java, Javascript, Python, C, Arduino, HTML, CSS](https://skillicons.dev/icons?i=java,js,python,c,arduino,html,css)](https://skillicons.dev)
+[![Java, Javascript, TypeScript, Python, C, Arduino, HTML, CSS](https://skillicons.dev/icons?i=java,js,typescript,python,c,arduino,html,css)](https://skillicons.dev)
 
 Frameworks, Bibliotecas & Ambientes de execução
 
