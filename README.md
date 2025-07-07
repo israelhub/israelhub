@@ -43,7 +43,7 @@ DevOps & Ferramentas
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:israelcunhaolive@gmail.com)
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=israelhub&layout=compact&theme=transparent&text_color=FFFFFF&title_color=FFFFFF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=israelhub&layout=compact&theme=tokyonight)
 <!--
 **israelhub/israelhub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
