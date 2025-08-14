@@ -10,11 +10,11 @@
 
 Linguagens de Programação, Marcação e Estilo
 
-[![Java, Javascript, TypeScript, Python, C, Arduino, HTML, CSS](https://skillicons.dev/icons?i=java,js,typescript,python,c,arduino,html,css)](https://skillicons.dev)
+[![Java, Javascript, TypeScript, Python, C, Arduino, HTML, CSS, PHP](https://skillicons.dev/icons?i=java,js,typescript,python,c,arduino,html,css,php)](https://skillicons.dev)
 
 Frameworks, Bibliotecas & Ambientes de execução
 
-[![Spring Boot, Node.js, Bootstrap, React, Next.js, Nest.js, Express.js](https://skillicons.dev/icons?i=spring,nodejs,bootstrap,react,nextjs,nestjs,express)](https://skillicons.dev)
+[![Spring Boot, Node.js, Bootstrap, React, Next.js, Nest.js, Express.js, Laravel](https://skillicons.dev/icons?i=spring,nodejs,bootstrap,react,nextjs,nestjs,express,laravel)](https://skillicons.dev)
 
 <!-- ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=fff)
