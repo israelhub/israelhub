@@ -8,18 +8,13 @@
 ---
 🚀 **Tecnologias que já interagi:**  
 
-Linguagens de Programação, Marcação e Estilo
+Linguagens de Programação, Marcação, Estilo e Ambientes de Execução
 
-[![Java, Javascript, TypeScript, Python, C, Arduino, HTML, CSS](https://skillicons.dev/icons?i=java,js,typescript,python,c,arduino,html,css)](https://skillicons.dev)
+[![Javascript, TypeScript, Node.js, HTML, CSS, Java, Python, C, Arduino, HTML, CSS](https://skillicons.dev/icons?i=js,typescript,nodejs,html,css,java,python,c,arduino)](https://skillicons.dev)
 
-Frameworks, Bibliotecas & Ambientes de execução
+Frameworks e Bibliotecas
 
-[![Spring Boot, Node.js, Bootstrap, React, Next.js, Nest.js, Express.js](https://skillicons.dev/icons?i=spring,nodejs,bootstrap,react,nextjs,nestjs,express)](https://skillicons.dev)
-
-<!-- ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=fff)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white) -->
-
+[![React, Next.js, Nest.js, Express.js, Spring Boot, Bootstrap](https://skillicons.dev/icons?i=react,nextjs,nestjs,express,spring,bootstrap)](https://skillicons.dev)
 
 DevOps & Ferramentas
 
@@ -29,13 +24,6 @@ DevOps & Ferramentas
 [![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
 [![Figma](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 
-<!-- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Amazon Web Services](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) -->
-
-
-
 ---
 📫 **Contato:**
 
@@ -44,17 +32,3 @@ DevOps & Ferramentas
 
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=israelhub&layout=compact&theme=tokyonight)
-<!--
-**israelhub/israelhub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
