@@ -1,10 +1,10 @@
 # Olá! Seja bem-vindo! 👋
 
-<!-- 🙋‍♂️ **Sobre mim:**  
-> Atualmente, estou cursando Sistemas de Informação no Centro Federal de Educação Tecnológica Celso Suckow da Fonseca (CEFET/RJ), no qual, aprendo e aplico conhecimentos sobre Estrutura de Dados, Programação Orientada a Objeto, Logica de Programação, Engenharia de Software, Banco de Dados e Sistema Operacional. Já trabalhei em projetos com Next, Nest, React Native, Figma, Typescript, Spring Boot, IA, Chatbots e PostgreSQL. Priorizo aprimorar meus conhecimentos em lógica de programação e gosto de manter meu código organizado, limpo e bem estruturado, com foco em boas práticas de desenvolvimento.
->
-> Sou certificado AWS Cloud Practioner e tenho o objetivo de ser um desenvolvedor. -->
-
+> Sou desenvolvedor de software apaixonado por criar experiências digitais que fazem a diferença. Foco em qualidade de código e experiência do usuário para entregar soluções que superam expectativas.
+> Sou certificado AWS e tenho focado em desenvolver produtos com Inteligência Artificial, explorando as possibilidades de machine learning e automação para criar soluções inovadoras.
+> Minha jornada na tecnologia começou há alguns anos e, desde então, venho me dedicando a aprender e aplicar as melhores práticas de desenvolvimento, sempre atento às novas tendências do mercado.
+> Quando não estou programando, gosto de compartilhar conhecimento e explorar ferramentas que possam melhorar meu fluxo de trabalho.
+---
 🚀 **Tecnologias que já interagi:**  
 
 Linguagens de Programação, Marcação, Estilo e Ambientes de Execução
