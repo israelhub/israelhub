@@ -1,28 +1,23 @@
 # Olá! Seja bem-vindo! 👋
 
-🙋‍♂️ **Sobre mim:**  
+<!-- 🙋‍♂️ **Sobre mim:**  
 > Atualmente, estou cursando Sistemas de Informação no Centro Federal de Educação Tecnológica Celso Suckow da Fonseca (CEFET/RJ), no qual, aprendo e aplico conhecimentos sobre Estrutura de Dados, Programação Orientada a Objeto, Logica de Programação, Engenharia de Software, Banco de Dados e Sistema Operacional. Já trabalhei em projetos com Next, Nest, React Native, Figma, Typescript, Spring Boot, IA, Chatbots e PostgreSQL. Priorizo aprimorar meus conhecimentos em lógica de programação e gosto de manter meu código organizado, limpo e bem estruturado, com foco em boas práticas de desenvolvimento.
 >
-> Sou certificado AWS Cloud Practioner e tenho o objetivo de ser um desenvolvedor.
+> Sou certificado AWS Cloud Practioner e tenho o objetivo de ser um desenvolvedor. -->
 
----
 🚀 **Tecnologias que já interagi:**  
 
 Linguagens de Programação, Marcação, Estilo e Ambientes de Execução
 
-[![Javascript, TypeScript, Node.js, HTML, CSS, Java, Python, C, Arduino, HTML, CSS](https://skillicons.dev/icons?i=js,typescript,nodejs,html,css,java,python,c,arduino)](https://skillicons.dev)
+[![Javascript, TypeScript, Node.js, HTML, CSS, Java, Python, Kotlin, Dart](https://skillicons.dev/icons?i=js,typescript,nodejs,html,css,java,python,kotlin,dart)](https://skillicons.dev)
 
 Frameworks e Bibliotecas
 
-[![React, Next.js, Nest.js, Express.js, Spring Boot, Bootstrap](https://skillicons.dev/icons?i=react,nextjs,nestjs,express,spring,bootstrap)](https://skillicons.dev)
+[![React, Next.js, Nest.js, Express.js, Spring Boot, Flutter](https://skillicons.dev/icons?i=react,nextjs,nestjs,express,spring,flutter)](https://skillicons.dev)
 
 DevOps & Ferramentas
 
-[![PostgreSQL](https://skillicons.dev/icons?i=postgresql)](https://skillicons.dev)
-[![AWS](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
-[![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
-[![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
-[![Figma](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+[![PostgreSQL, AWS, Docker, Git, GitHub, Bitbucket, Notion, Figma](https://skillicons.dev/icons?i=postgresql,aws,docker,git,github,bitbucket,notion,figma)](https://skillicons.dev)
 
 ---
 📫 **Contato:**
